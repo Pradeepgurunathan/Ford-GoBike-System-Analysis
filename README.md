@@ -1,12 +1,12 @@
 # Ford GoBike System Analysis 
 ### by Pradeep Gurunathan
 
-[Click to preview the Slide report](http://htmlpreview.github.io/?https://github.com/Pradeepgurunathan/FordGo-Bike-Data-Analysis/blob/master/Data_Explanatory_Slide_report.slides.html)
+[Click to preview the Slide report](http://htmlpreview.github.io/?https://github.com/Pradeepgurunathan/Ford-GoBike-System-Analysis/blob/master/Data_Explanatory_Slide_report.slides.html)
 
 
-[Click to preview the data exploration report](http://htmlpreview.github.io/?https://github.com/Pradeepgurunathan/FordGo-Bike-Data-Analysis/blob/master/Data_Explanatory_Slide_report.html)
+[Click to preview the data exploration report](http://htmlpreview.github.io/?https://github.com/Pradeepgurunathan/Ford-GoBike-System-Analysis/blob/master/Data_Explanatory_Slide_report.html)
 
-[Click to preview the data explanatory report](http://htmlpreview.github.io/?https://github.com/Pradeepgurunathan/FordGo-Bike-Data-Analysis/blob/master/Data_Exploration_report.html)
+[Click to preview the data explanatory report](http://htmlpreview.github.io/?https://github.com/Pradeepgurunathan/Ford-GoBike-System-Analysis/blob/master/Data_Exploration_report.html)
 
 ## Dataset : Ford GoBike
 
